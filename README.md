@@ -3,6 +3,8 @@
 A small module that works with MNE-Python to perform microstate analysis in EEG
 and MEG data.
 
+This fork is accomodated to the purposes of an internship project of Dragana Manasova, and adaptations may need to be adjusted to the given examples. 
+
 ## Usage
 
 ```python
